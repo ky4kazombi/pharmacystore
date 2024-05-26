@@ -2,21 +2,21 @@
     <h1><u>Java Pharmacy Management System Project</u></h1>
 </p>
 
-## About Project
+## О проекте
 
 Простая панель админа магазина лекаств. Использовались: Java, JavaDb database, JFrame Forms, Swing Components.
 
-## Features
+## Особенности
 <ul>
-    <li>The Admin can see all agents ie. to read each separately. </li>
-    <li>The Admin can also do insert new or update and delete existing agent </li>
+    <li>Администратор может видеть всех агентов, т.е. читать каждого отдельно. </li>
+    <li>Администратор также может вставлять новых или обновлять и удалять существующих агентов. </li>
 <br>
-    <li>The admin adds medicines, but he also updates the data or deletes an existing medicine if needed. </li>
+    <li>Администратор добавляет лекарства, но при необходимости он также обновляет данные или удаляет существующие лекарства. </li>
 <br>
-    <li>Admin adds new medicine company info, but he also updates the data or deletes an existing company if needed.</li>
+    <li>Администратор добавляет информацию о новых медицинских компаниях, а также обновляет данные или удаляет существующую компанию, если это необходимо.</li>
     <br>
-    <li>Admin adds new bills of medicine, and as soon as the medicine bill is made quantity of medicine descreases</li>
-    <li>By Clicking on the Print button, the bill for the desired medicine can be printed</li>
+    <li>Администратор добавляет новые счета на лекарства, и как только счет на лекарства сделан, количество лекарств уменьшается</li>
+    <li>Нажав на кнопку "Print", можно распечатать счет за нужное лекарство</li>
 </ul>
 
 Loader
