@@ -25,9 +25,6 @@ Loader
 Login Form
 ![loginForm](https://user-images.githubusercontent.com/72461048/120349130-226d4400-c2fe-11eb-847a-03a00fce5733.png)
 
-FilledIn LoginForm
-![exampleCompletedLoginForm](https://user-images.githubusercontent.com/72461048/120349221-3618aa80-c2fe-11eb-9c84-ba229a786f99.png)
-
 Manage Agents
 ![manageAgents](https://user-images.githubusercontent.com/72461048/120349406-63655880-c2fe-11eb-8030-7f6b3ba1e112.png)
 
